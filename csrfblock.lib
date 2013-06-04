@@ -1,0 +1,6 @@
+? Below, enter the pages that do not require a CSRF token attached. 
+? A line that starts with a question mark is interpreted as a comment.
+this_is_a_file.php
+this_is_another_file.php
+? This is another comment
+  ? As is this.
